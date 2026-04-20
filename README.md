@@ -1,7 +1,7 @@
 # Hi, I'm Anuar Zouhri 👋
 
 ### Programming Languages
-![Linguaggi](https://skillicons.dev/icons?i=c,cpp,matlab,java,latex,python,r,ampl)
+![Linguaggi](https://skillicons.dev/icons?i=c,cpp,matlab,java,latex,python,r,AMPL)
 
 ### IDE and Editor
 ![IDE](https://skillicons.dev/icons?i=vscode,idea,matlab,r)
