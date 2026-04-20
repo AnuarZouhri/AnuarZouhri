@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anuar Zouhri 👋
 
-<!--
-**AnuarZouhri/AnuarZouhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+![Linguaggi](https://skillicons.dev/icons?i=c,c++,matlab,java,latex,python,r,bash)
 
-Here are some ideas to get you started:
+### IDE and Editor
+![IDE](https://skillicons.dev/icons?i=vscode,idea,matlab,r)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tools and technologies
+![Strumenti](https://skillicons.dev/icons?i=git,github,postgres,docker,linux)
+
+
+# Connect with Me
+Click on the icons below to connect with me on different platforms:
+
+[![Gmail]
+[![LinkedIn]
+[![Instagram]
+
+# Portfolio
+link al [Portfolio personale]
